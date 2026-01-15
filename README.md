@@ -1,6 +1,7 @@
 # CIFAR-10 预激活宽残差神经网络 (WRN-40-K)
 
 基于PyTorch Lightning的CIFAR-10图像分类项目，使用预激活宽残差网络（Pre-activation Wide Residual Network）架构。
+在模型WRN-40-4上训练出的准确率为93.95%，在WRN-40-8上的准确率为94.69%
 
 ## 项目结构
 
