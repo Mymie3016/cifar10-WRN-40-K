@@ -86,7 +86,6 @@ tensorboard --logdir ./logs
 
 项目实现了基于宽残差网络（Wide Residual Network, WRN）的深度卷积神经网络，采用预激活（Pre-Activation）残差块，专为CIFAR-10图像分类任务优化。
 - 使用预激活（Pre-Activation）的残差块，归一化和激活函数在卷积层之前
-- 网络结构包含45层，提升特征提取能力
 - 可以调整config中的K参数修改模型宽度
 
 ### 残差块结构（BasicBlock）
