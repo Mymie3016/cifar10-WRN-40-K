@@ -1,0 +1,9 @@
+src/__pycache__
+__pycache__
+checkpoints
+data/
+logs
+
+.vscode
+.git
+cifar10-cnn.zip
